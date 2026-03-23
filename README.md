@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:00b4d8&height=200&section=header&text=Uzaif%20Talpur&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Energy%20%26%20Climate%20Tech&descAlignY=58&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:00b4d8&height=180&section=header&text=Uzaif+Talpur&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=UzaifTalpur&label=Profile%20Views&color=1B3A6B&style=for-the-badge" alt="Profile Views"/>
 
