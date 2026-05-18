@@ -92,7 +92,7 @@ Exploring cross-domain spectrogram analysis using deep learning — combining si
 | Batch 1 | Python Development | ✅ Completed |
 | Batch 2 | Python Development | ✅ Completed |
 | Batch 3 | Python Development | ✅ Completed |
-| Batch 4 | Web Development (HTML, CSS, JS, Node.js, MongoDB) | 🟢 Active |
+| Batch 4 | Web Development (HTML, CSS, JS, Node.js, MongoDB) | ✅ Completed |
 
 Teaching students from high school to graduate level. Integrating sustainability, AI tools, and prompt engineering into the curriculum.
 
