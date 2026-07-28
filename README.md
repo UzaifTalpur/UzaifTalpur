@@ -209,7 +209,7 @@ Designed and delivered curriculum in Python, web development, prompt engineering
 
 | Award / Role | Organisation | Year |
 |---|---|---|
-| 💰 **Research Grant — USD 6,000** | Koshish Foundation (competitive international, Tech for Good) | Active |
+| 💰 **Research Grant — USD 6,000** | Koshish Foundation (competitive international, Tech for Good) |2021 |
 | 🎓 **OGDCL Fully Funded Merit Scholarship** | National undergraduate merit award | B.E. |
 | 🎓 **Graduate Assistant Scholarship (offer)** | METU Northern Cyprus Campus | — |
 | 🏅 **Judge, Mentor & Ambassador — Arduino Contest** | IEEE SSCS Society | 2026 |
